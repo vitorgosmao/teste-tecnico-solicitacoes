@@ -1,0 +1,22 @@
+2026-10-08 19:12:03,822 - INFO - Inicio do processamento
+2026-10-08 19:12:03,837 - INFO - Arquivo carregado
+2026-10-08 19:12:03,837 - INFO - Total de registros lidos: 15
+2026-10-08 19:12:03,849 - INFO - Filtragem de valores inválidos
+2026-10-08 19:12:03,851 - WARNING - Registro 2 ignorado: CPF não informado
+2026-10-08 19:12:03,851 - WARNING - Registro 3 ignorado: Registro não aprovado
+2026-10-08 19:12:03,851 - WARNING - Registro 5 ignorado: CPF não informado
+2026-10-08 19:12:03,851 - WARNING - Registro 7 ignorado: Registro não aprovado
+2026-10-08 19:12:03,851 - WARNING - Registro 8 ignorado: CPF não informado
+2026-10-08 19:12:03,851 - WARNING - Registro 10 ignorado: Registro não aprovado
+2026-10-08 19:12:03,851 - WARNING - Registro 11 ignorado: CPF não informado
+2026-10-08 19:12:03,851 - WARNING - Registro 14 ignorado: CPF não informado
+2026-10-08 19:14:04,947 - INFO - Filtragem de valores inválidos
+2026-10-08 19:14:04,948 - WARNING - Registro 2 ignorado: CPF não informado
+2026-10-08 19:14:04,949 - WARNING - Registro 3 ignorado: Registro não aprovado
+2026-10-08 19:14:04,949 - WARNING - Registro 5 ignorado: CPF não informado
+2026-10-08 19:14:04,949 - WARNING - Registro 7 ignorado: Registro não aprovado
+2026-10-08 19:14:04,949 - WARNING - Registro 8 ignorado: CPF não informado
+2026-10-08 19:14:04,949 - WARNING - Registro 10 ignorado: Registro não aprovado
+2026-10-08 19:14:04,949 - WARNING - Registro 11 ignorado: CPF não informado
+2026-10-08 19:14:04,949 - WARNING - Registro 14 ignorado: CPF não informado
+2026-10-08 19:14:04,950 - INFO - Total de registros filtrados: 8
