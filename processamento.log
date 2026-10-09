@@ -30,3 +30,19 @@
 2026-10-08 21:48:23,704 - INFO - Arquivo [aprovados.csv] criado com sucesso.
 2026-10-08 21:48:23,705 - INFO - Total de registros exportados:7
 2026-10-08 21:48:23,705 - INFO - Fim do processamento
+2026-10-08 23:16:25,775 - INFO - Inicio do processamento
+2026-10-08 23:16:25,779 - INFO - Arquivo carregado
+2026-10-08 23:16:25,779 - INFO - Total de registros lidos: 15
+2026-10-08 23:16:25,779 - INFO - Iniciando filtragem de valores inválidos
+2026-10-08 23:16:25,780 - WARNING - Registro 2 ignorado: CPF não informado
+2026-10-08 23:16:25,780 - WARNING - Registro 3 ignorado: Registro não aprovado
+2026-10-08 23:16:25,780 - WARNING - Registro 5 ignorado: CPF não informado
+2026-10-08 23:16:25,780 - WARNING - Registro 7 ignorado: Registro não aprovado
+2026-10-08 23:16:25,780 - WARNING - Registro 8 ignorado: CPF não informado
+2026-10-08 23:16:25,781 - WARNING - Registro 10 ignorado: Registro não aprovado
+2026-10-08 23:16:25,781 - WARNING - Registro 11 ignorado: CPF não informado
+2026-10-08 23:16:25,781 - WARNING - Registro 14 ignorado: CPF não informado
+2026-10-08 23:16:25,781 - INFO - Total de registros filtrados: 8
+2026-10-08 23:16:25,783 - INFO - Arquivo [aprovados.csv] criado com sucesso.
+2026-10-08 23:16:25,783 - INFO - Total de registros exportados:7
+2026-10-08 23:16:25,783 - INFO - Fim do processamento

@@ -1,8 +1,8 @@
-id,nome,cpf,status
-1,Maria Silva,12345678900,APROVADO
-4,Pedro Santos,45678912300,APROVADO
-6,Carlos Ferreira,74185296300,APROVADO
-9,Patricia Martins,96385274100,APROVADO
-12,Bruno Nunes,85274196300,APROVADO
-13,Mariana Teixeira,15975348600,APROVADO
-15,Aline Carvalho,32165498700,APROVADO
+id,nome,cpf
+1,Maria Silva,12345678900
+4,Pedro Santos,45678912300
+6,Carlos Ferreira,74185296300
+9,Patricia Martins,96385274100
+12,Bruno Nunes,85274196300
+13,Mariana Teixeira,15975348600
+15,Aline Carvalho,32165498700
